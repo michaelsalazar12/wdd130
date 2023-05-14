@@ -1,0 +1,114 @@
+body {
+    max-width: 1600px;
+    margin: 0 auto; /* This will center the content horizontally */
+  }
+nav a {
+    text-align: center;
+}
+#hero-img{
+    width: 100%;
+}
+#hero-msg h1 {
+    text-align: center;
+} 
+#hero-msg h4 {
+    text-align: center;
+}
+.button-box {
+    text-align: center;
+}
+main section {
+    text-align: center;
+}
+#backround {
+    height: 725px;
+    background-color: #219ebc;
+}
+body {
+    background-color:whitesmoke
+}
+header{
+    background-color:#023047
+
+}
+nav a:hover {
+    background-color:#FFB703
+}
+.book {
+    background-color: whitesmoke;
+}
+.join {
+    background-color: #023047;
+    color: #FFB703;
+}
+.book:hover {
+    background-color: whitesmoke;
+}
+.join:hover{
+    background-color:#fb8500;
+}
+#background{
+    background-color: #023047;
+}
+.msg{
+    background-color: #023047;
+}
+.msg h2{
+    background-color: #023047;
+    color:white
+}
+.msg p {
+    background-color: #023047;
+    color: white
+}
+footer{
+    background-color: #023047;
+    text-decoration: none;
+    color: white;
+}
+footer a{
+    background-color:#023047;
+    color: #FFB703;
+}
+footer a:hover{
+    background-color: #fb8500;
+}
+nav a{
+    text-align: center;
+    background-color: #023047;
+    color: #FFB703;
+    text-decoration: none;
+}
+nav a :hover{
+    background-color: #FFB703;
+}
+.home-title{
+    background-color:whitesmoke;
+    color: black
+}
+h4{
+    background-color: whitesmoke;
+    color: black
+}
+.icon{
+    width:80px
+}
+footer p{
+    font-size: 1.2em;
+}
+footer p a:hover{
+    text-decoration: underline;
+}
+#logo_link img,
+.card-img + img {
+  width: 80px;
+}
+img[src="images/whitesnakeraft.jpg"] {
+    width: 80x;
+    height: 100px;
+  }
+
+  
+ 
+
+
