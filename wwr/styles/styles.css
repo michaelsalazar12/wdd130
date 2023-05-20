@@ -47,7 +47,9 @@ body {
     background-color:whitesmoke
 }
 header{
+    height: 215px;
     background-color:#023047
+    
 
 }
 nav a:hover {
@@ -64,7 +66,7 @@ nav a:hover {
 .join {
     border-radius: 5px;
     margin-top: 50px;
-    font-family: var(--paragraph-font);
+    font-family: var(--heading-font);
     font-size: 18px;
     background-color: #023047;
     color: #FFB703;
@@ -150,9 +152,11 @@ footer p a:hover{
 .card-img + img {
   width: 80px;
 }
-img[src="images/whitesnakeraft.jpg"] {
-    width: 80x;
-    height: 100px;
+.logo {
+    width: 80px;
+    height: 80px;
+    border-radius: 10%;
+    background-color: #023047;
   }
   .social{
     padding-top: 15px;
