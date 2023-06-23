@@ -241,6 +241,49 @@ footer p, footer a {
   grid-row: 5/8;
   box-shadow: 5px 5px 10px
 }
+
+
+/* Start of Rivers page CSS */
+.rivers-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.salmon-river,
+.desolation {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-column-gap: 20px;
+  align-items: center;
+}
+
+.salmon-river img,
+.desolation img {
+  width: 100%;
+  max-width: 400px;
+  z-index: 1;
+}
+
+.salmon-river .river-info,
+.desolation .river-info {
+  grid-column: 2;
+}
+
+
+
+
+  
+
+
+
+
+
+
+
+
+ 
+
 @media screen and (max-width: 900px) {
   #hero, .home-grid {
       display: block;
