@@ -252,7 +252,6 @@ footer p, footer a {
 
 .salmon-river,
 .desolation {
-  display: grid;
   grid-template-columns: auto 1fr;
   grid-column-gap: 20px;
   align-items: center;
