@@ -262,13 +262,13 @@ footer p, footer a {
 .desolation img {
   width: 100%;
   max-width: 400px;
-  z-index: 1;
 }
 
 .salmon-river .river-info,
 .desolation .river-info {
   grid-column: 2;
 }
+
 
 
 
